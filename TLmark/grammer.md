@@ -1,0 +1,10 @@
+1. 1(words); ()=> `# words`
+2. 2(words); ()=> `## words`
+3. 3(words); ()=> `### words`
+4. 4(words); ()=> `#### words`
+5. code(codes); ()=> ` ```codes``` `
+6. link(front,veiws,link,back); ()=> `front[views](link)back`
+7. img(link); ()=> `<img src:"link">`
+8. newLine(); ()=> `    `
+9. Dividing_line(); ()=> `***`
+10. 0(words); ()=> `words`

@@ -1,0 +1,15 @@
+{
+  "name": "markdown",
+  "version": "1.0.0",
+  "description": "An easy laguage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "TLcut",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
