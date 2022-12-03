@@ -29,6 +29,6 @@
 >Dividing_line(); ()=> `***`  
   
 >0(words); ()=> `words`
-***
-## ✨Compelet! Isn't easy?❤
+  
+## Compelet! Isn't easy?
 </div>
